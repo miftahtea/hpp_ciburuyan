@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#0b7a3b"/>
+  <circle cx="256" cy="245" r="145" fill="#ffffff" opacity=".96"/>
+  <path d="M118 250c58-70 143-83 235-48 22 8 40 20 58 36-18 16-36 28-58 36-92 35-177 22-235-48Z" fill="#0b7a3b"/>
+  <path d="M366 202l67-48-23 78 23 78-67-48" fill="#0b7a3b"/>
+  <circle cx="207" cy="218" r="10" fill="#ffffff"/>
+  <path d="M142 365h228" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+  <text x="256" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">HPP</text>
+</svg>
